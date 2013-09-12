@@ -35,3 +35,8 @@ Secure the configuration file:
 ```
 chmod 600 /root/.gmusicfs
 ```
+
+Usage
+-----
+
+Use `>` to skip to the next song. All mplayer keyboard shortcuts should be enabled.
